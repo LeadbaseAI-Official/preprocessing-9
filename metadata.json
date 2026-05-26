@@ -1,0 +1,7 @@
+{
+  "chunk_size": 2500000,
+  "active_workers": 50,
+  "hf_repo_id": "anisoleai/fineweb-tokenized",
+  "hf_dataset": "HuggingFaceFW/fineweb",
+  "github_org": "LeadbaseAI-Official"
+}
