@@ -1,0 +1,7 @@
+numpy
+pyarrow
+tokenizers
+huggingface-hub
+tqdm
+requests
+fsspec
